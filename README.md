@@ -1,2 +1,2 @@
 # Front-end_Development
-This is where my Website portofolio &amp; Projects store
+This repository contains my front-end portfolio and related projects.
