@@ -27,7 +27,7 @@ The main goal of this version was to get the **design of the Home section done**
 
 ## 🙌 Why I'm Building This
 
-Although I’m not pursuing web development as a career, understanding front-end design helps me in my main goal — becoming a professional Web Penetration Tester. By understanding how websites are structured, I can better find and exploit vulnerabilities during tests.
+Although I’m not pursuing web development as a career, understanding front-end design helps me in my main goal to become a professional Web Penetration Tester. By understanding how websites are structured, I can better find and exploit vulnerabilities during tests.
 
 ---
 
