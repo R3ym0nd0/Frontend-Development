@@ -2,6 +2,8 @@
 
 Welcome to the first version of my personal portfolio!  
 This project is part of my journey as an aspiring Web Penetration Tester who’s currently exploring front-end development to better understand how websites are built.
+## 📸 Image
+![Screenshot_2025-04-09_08_51_23](https://github.com/user-attachments/assets/e31fb201-e737-4498-92fc-5696d2c18f91)
 
 ## 📌 Current Status
 
