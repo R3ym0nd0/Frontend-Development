@@ -1,4 +1,6 @@
-# 🧠 DATA TYPES
+# JavaScript Fundamentals
+
+## 🧠 DATA TYPES
 
   - `let name = "Reymond";`         // String
   - `let age = 20;`                 // Number
@@ -8,7 +10,7 @@
   - `let big = 1234567890123n;`     // BigInt
   - `let id = Symbol("id");`        // Symbol
 
-# 🔁 TYPE CONVERSION
+## 🔁 TYPE CONVERSION
 
   - `parseInt("20.9");`      // → 20
   - `parseFloat("20.9");`    // → 20.9
@@ -16,7 +18,7 @@
   - `Number("123");`         // → 123
   - `Boolean(1);`            // → true
 
-# 🧠 String Methods
+## 🧠 String Methods
   `let str = "  Hello World  ";`
   - `str.length`                    // Get the length of the string
   - `str[0]`                        // Access the first character
@@ -30,7 +32,7 @@
   - `str.slice(0, 5)`                // Extract a section of the string (index 0 to 5)
   - `console.log(\`Hi, I am ${name}\`);` // Template literal
 
-# 🔢 INCREMENT & DECREMENT
+## 🔢 INCREMENT & DECREMENT
 
   `let y = 5;`
   - `y++;` // Post-increment
@@ -38,7 +40,7 @@
   - `y--;` // Post-decrement
   - `--y;` // Pre-decrement
 
-# [] ARRAYS
+## [] ARRAYS
 
   `let fruits = ["apple", "banana", "cherry"];`
   
@@ -53,24 +55,24 @@
   - fruits.slice(1, 3);  // Get part (non-destructive)
   - fruits.length = 0;   // Clear array
 
-# 🔁 For loop
+## 🔁 For loop
     for (let i = 0; i < 5; i++) {
       console.log(i);
     }
-# 🔁 While loop
+## 🔁 While loop
     let i = 0;
     while (i < 5) {
         console.log(i);
         i++;
     }
 
-# 🔁 Do While loop
+## 🔁 Do While loop
     do {
         console.log(i);
         i++;
     } while (i < 5);
 
-# 🔁 For...in (for objects)
+## 🔁 For...in (for objects)
     const obj = { name: "Rey", 
                   age: 20 };
                   
@@ -78,14 +80,14 @@
         console.log(key, obj[key]);
     }
 
-# 🔁 For...of (for arrays)
+## 🔁 For...of (for arrays)
     const fruits = ["banana", "apple", "melon"];
     
     for (let fruit of fruits) {
         console.log(fruit);
     }
 
-# 🤖 IF - ELSE IF - ELSE 
+## 🤖 IF - ELSE IF - ELSE 
 
     if (temp > 30) {
         console.log("Hot");
@@ -99,7 +101,7 @@
         console.log("Cold");
     }
 
-# 🤖 SWITCH
+## 🤖 SWITCH
 
     switch (day) {
 
@@ -115,7 +117,7 @@
         console.log("Just another day");
     }
 
-# ✅ COMPARISON OPERATORS
+## ✅ COMPARISON OPERATORS
 
     1. ==    Equal (loose)
     2. ===   Equal (strict)
@@ -126,24 +128,24 @@
     7. >=    Greater or equal
     8. <=    Less or equal
 
-# 🧩 Regular Function
+## 🧩 Regular Function
 
     function greet(name) {
       return `Hi ${name}`;
     }
 
-# 🧩 Arrow Function (shortcut)
+## 🧩 Arrow Function (shortcut)
 
     const greet = (name) => `Hi ${name}`;
 
-# 🧩 Multi-line Arrow Function
+## 🧩 Multi-line Arrow Function
 
     const add = (a, b) => {
         let sum = a + b;
         return sum;
     };
 
-# 🧱 JSON BASICS
+## 🧱 JSON BASICS
 
     let person = {
         FirstName: "Reymond",
@@ -169,7 +171,7 @@
     let keys = Object.keys(obj1);           // Get keys
     keys.forEach(key => console.log(obj1[key]));
 
-# 💥 ERROR HANDLING
+## 💥 ERROR HANDLING
 
     try {
         // Code that might fail
