@@ -1,2 +1,2 @@
 # Front-end_Development
-This repository contains **HTML**, **CSS**, **JavaScript** Notes, my **front-end portfolio**, and related **projects**.
+This repository contains **HTML**, **CSS**, **JavaScript** notes & projects, and my **front-end portfolio**.
