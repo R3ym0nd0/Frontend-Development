@@ -30,7 +30,7 @@
   - `str.replace("Hello", "Hi")`    // Replace first occurrence of "Hello" with "Hi"
   - `str.replaceAll("l", "L")`      // Replace all occurrences of "l" with "L"
   - `str.slice(0, 5)`                // Extract a section of the string (index 0 to 5)
-  - `console.log(\`Hi, I am ${name}\`);` // Template literal
+  - `console.log('Hi, I am ${name}');` // Template literal
 
 ## 🔢 INCREMENT & DECREMENT
 
@@ -45,15 +45,15 @@
   `let fruits = ["apple", "banana", "cherry"];`
   
   ***Adding***
-  - fruits[fruits.length] = "mango";
-  - fruits.push("mango");
-  - fruits.unshift("grape");
+  - `fruits[fruits.length] = "mango";`
+  - `fruits.push("mango");`
+  - `fruits.unshift("grape");`
   
   ***Removing***
-  - fruits.pop();        // Remove last
-  - fruits.shift();      // Remove first
-  - fruits.slice(1, 3);  // Get part (non-destructive)
-  - fruits.length = 0;   // Clear array
+  - `fruits.pop();`        // Remove last
+  - `fruits.shift();`      // Remove first
+  - `fruits.slice(1, 3);`  // Get part (non-destructive)
+  - `fruits.length = 0;`   // Clear array
 
 ## 🔁 For loop
     for (let i = 0; i < 5; i++) {
