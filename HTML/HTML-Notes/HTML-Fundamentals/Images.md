@@ -4,7 +4,7 @@
     <img src="image.jpg" alt="Description" width="300" height="200">
 
 - `Image Tag <img>` — **inserts an image**
-## Image Attributes:
+## Image Tag Attributes:
 
 - `src` — **image file path or URL**
 - `alt` — **text shown if image fails or for screen readers**
