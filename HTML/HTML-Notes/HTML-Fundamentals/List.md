@@ -9,7 +9,7 @@
       <li>Item 2</li>
       <li>Item 3</li>
     </ul>
-- `Unordered List Tag <ul>` = **unordered list with bullets**
+- `Unordered List Tag <ul>` - **unordered list with bullets**
   
 ## Ordered List
     <ol>
@@ -18,4 +18,4 @@
       <li>Second</li>
       <li>Third</li>
     </ol>
-- `Ordered List Tag <ol>` = **ordered list with numbers**
+- `Ordered List Tag <ol>` - **ordered list with numbers**
