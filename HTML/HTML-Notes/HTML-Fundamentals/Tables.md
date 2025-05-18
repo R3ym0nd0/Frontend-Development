@@ -1,9 +1,9 @@
 # 📊 Tables
 
-    <table>
+    <table border="0">
         <!-- table header row -->
         <thead> 
-            <tr>
+            <tr align="center">
                 <!-- table header cell -->
                 <th>Header 1</th> 
                 <th>Header 2</th>
@@ -12,13 +12,13 @@
         </thead>
         <!-- table body rows -->
         <tbody> 
-            <tr>
+            <tr align="center">
                 <!-- table data cell -->
                 <td>Data 1</td> 
                 <td>Data 2</td>
                 <td>Data 3</td>
             </tr>
-            <tr>
+            <tr align="center">
                 <td>Data 4</td>
                 <td>Data 5</td>
                 <td>Data 6</td>
