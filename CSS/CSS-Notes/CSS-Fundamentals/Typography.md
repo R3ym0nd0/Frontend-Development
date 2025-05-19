@@ -6,8 +6,6 @@
 - `font-weight` - how thick/bold the letters are
 - `font-style` - normal or italic text
 
-
-
 ## text spacing & flow
 - `line-height` - space between lines
 - `letter-spacing` - space between letters
