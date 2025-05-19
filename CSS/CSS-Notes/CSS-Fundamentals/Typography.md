@@ -15,8 +15,6 @@
 - `text-align` - line up text left, center, right, or justify
 - `text-transform` - make text UPPERCASE, lowercase, or Capitalized
 
-## Example:
-
       .typography {
           /* font family & appearance */
           font-family: Arial, Helvetica, sans-serif; /* fallback stack */
