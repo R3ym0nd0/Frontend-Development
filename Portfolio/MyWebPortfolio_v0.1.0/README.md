@@ -1,14 +1,20 @@
 # Website Portfolio v0.1.0
 
 Welcome to version 0.1.0 of my personal website portfolio!  
-This is part of my ongoing journey as an aspiring **Web Penetration Tester** who’s diving deeper into front-end development to better understand how websites are built, styled, and function on different devices.
+This is part of my ongoing journey as an aspiring **Web Penetration Tester** where I'm diving deeper into front-end development to better understand how websites are built.
 
 ---
 
 ## 📸 Screenshot
 
 ### DESKTOP
-![MyPortfolio_Desktop](https://github.com/user-attachments/assets/394ddbed-5e35-4db9-924b-c62e30ddc4fb)
+![MyPortfolio_Desktop](https://github.com/user-attachments/assets/05547fae-6368-4e92-907b-c6e99c63c2d8)
+
+### TABLET
+![MyPortfolio_Tablet](https://github.com/user-attachments/assets/64cfab5c-a163-4b9f-9bd5-64018fbceb10)
+
+### MOBILE
+![MyPortfolio_Mobile](https://github.com/user-attachments/assets/d0ac8e93-e2ea-407c-9dd5-83d757684442)
 
 ---
 
