@@ -7,23 +7,26 @@ A personal repository for my frontend development learning journey — from fund
 ## 📂 Repository Structure
 
 ```
-frontend-development/
+Frontend-Development/
   │
   ├── HTML/
-  │    └── Fundamentals/ # My personal HTML notes
+  │    └── HTML-Notes/ # My personal HTML notes
+  |            └── HTML-Fundamentals/ #Fundamentals notes
   │
   ├── CSS/
-  │    └── Fundamentals/ # My personal CSS notes
+  │    └── CSS-Notes/ # My personal CSS notes
+  │            └── CSS-Fundamentals/ #Fundamentals notes
   │
   ├── JS/
-  │    ├── Basic_Projects/ # Small JavaScript-only projects
-  │    ├── Fundamentals/ # My personal JavaScript notes
-  │    ├── Asynchronous/ # Async JS concepts (Promises, async/await, etc.)
-  │    └── Document_Object_Model/ # DOM manipulation and related concepts
+  │    ├── Basic-Projects/ # Small JavaScript-only projects
+  │    └── JavaScript-Notes/ # My personal JavaScript notes
+  │            ├── JS-Fundamentals/ # Fundamentals notes
+  │            ├── Asynchronous/ # Async JS notes (Promises, async/await, etc.)
+  │            └── Document_Object_Model/ # DOM manipulation notes
   │
-  ├── Frameworks/ # (Planned) Will include React, Vue, etc.
   │
-  └── Portfolio/ # Old portfolio version (archived here)
+  ├── Portfolio/ # Old portfolio version (archived here)
+  └── Frameworks/ # (Planned) Will include React, Vue, etc.
   ```
 
 ---
