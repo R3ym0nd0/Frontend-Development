@@ -1,6 +1,6 @@
 # Frontend Development 📚
 
-A personal repository for my frontend development learning journey — from fundamentals to small projects, and eventually, modern frameworks.
+A personal repository for my frontend development learning journey — from fundamentals to small projects, and eventually, frameworks.
 
 ---
 
@@ -35,8 +35,7 @@ Frontend-Development/
 
 This repo serves as my **frontend development knowledge base**:
 - 📝 **Notes**: My own summaries, examples, and references for HTML, CSS, and JS.
-- 🛠 **Projects**: Small practice projects to apply JavaScript concepts.
-- 🚀 **Future Expansion**: Plans to learn and add popular frameworks like **React**, **Vue**, etc.
+- 🛠 **Basic Projects**: Small practice projects to apply JavaScript concepts.
 - 📦 **Portfolio Archive**: The old version of my personal portfolio is stored here for reference.
 
 ---
@@ -45,7 +44,6 @@ This repo serves as my **frontend development knowledge base**:
 
 - Build a solid foundation in HTML, CSS, and JavaScript.
 - Practice and master DOM manipulation & asynchronous programming.
-- Explore frontend frameworks
 
 ---
 
